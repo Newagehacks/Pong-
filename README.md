@@ -8,4 +8,4 @@ W,S and up and down
 1p controls:
 W,S
 
-Probobly some bugs, but the basic pong fuctions are down
+Probably some bugs, but the basic pong fuctions are down
